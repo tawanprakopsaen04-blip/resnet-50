@@ -1,0 +1,9 @@
+Plaintext
+torch
+torchvision
+librosa
+noisereduce
+matplotlib
+pillow
+numpy
+gradio
